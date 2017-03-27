@@ -1,4 +1,4 @@
-# Cetus
+<p align="center" font="20px"> Cetus </p>
 
 Projeto Cetus foi idealizado para ser um software de gerenciamento empresarial flexível e robusto, fornecendo uma solução para os problemas diários.
 
