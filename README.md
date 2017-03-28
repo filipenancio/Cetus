@@ -1,10 +1,12 @@
-<p align="center"><font size="8"> __Cetus__ </font></p>
+# _Cetus_ 
 
 O projeto __Cetus__ foi idealizado para ser um software de gerenciamento empresarial flexível e robusto, fornecendo uma solução para os problemas diários.
 
-# Desenvolvimento (Preparação de ambiente):
+## Desenvolvimento (Preparação de ambiente):
 
-No ambiente de desenvolvimento são utilizadas algumas ferramentas em conjunto do sistema `Linux Ubuntu`. Preparando o ambiente:
+No ambiente de desenvolvimento são utilizadas algumas ferramentas em conjunto do sistema `Linux Ubuntu`. 
+
+Preparando o ambiente:
 
 * Instale a ferramenta `Git`, para o gerenciamento de versões
 ```shell
