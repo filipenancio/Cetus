@@ -37,7 +37,7 @@ Obs.: Caso necessário reconfigure os links do java utilizando o comando `sudo u
 sudo apt-get install maven
 ```
 
-Para finalizar, crie uma pasta no diretório do usuário chamada `Prog`. Dentro da pasta `Prog`, crie uma pasta para a ferramenta [Eclipse IDE - Neon](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R2a/eclipse-inst-linux64.tar.gz).
+Para finalizar, crie uma pasta no diretório do usuário chamada `Prog`. Dentro da pasta `Prog`, crie uma pasta para a ferramenta [Eclipse IDE - Neon](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-linux-gtk-x86_64.tar.gz) e uma segunda pasta chamada `workspace`, local onde será armazenada as configurações do `Eclipse`.
 
 Pelo `terminal`, vá até a pasta `Prog`, através do comando `cd ~/Prog`, e faça um clone do projeto Cetus.
 
