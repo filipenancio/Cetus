@@ -1,6 +1,6 @@
 # _Cetus_ 
 
-O projeto __Cetus__ foi idealizado para ser um software de gerenciamento empresarial flexível e robusto, fornecendo uma solução para os problemas diários.
+O projeto __Cetus__ é um projeto de treinamento, que busca a criação de um software modelo de ERP.
 
 ## Desenvolvimento (Preparação de ambiente):
 
